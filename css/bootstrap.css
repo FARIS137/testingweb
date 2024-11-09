@@ -83,8 +83,8 @@ h1, .h1 {
 .logo {
   width: 60px; /* Sesuaikan ukuran logo */
   height: auto;
-  margin-left: 25px;
-  margin-bottom: 9px;
+  margin-right: 10px;
+  padding-bottom: 12px;
 }
 
 @media (min-width: 1200px) {
