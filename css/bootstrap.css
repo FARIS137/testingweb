@@ -7562,6 +7562,8 @@ fieldset:disabled .btn {
 .py-3 {
   padding-top: 2rem !important;
   padding-bottom: 2rem !important;
+  justify-content: space-around;
+
 }
 
 .py-4 {
